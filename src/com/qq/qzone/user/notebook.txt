@@ -1,0 +1,14 @@
+#             f.write(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n")
+#             if i==0:
+#                 ul = feedsoup.findAll("ul",attrs={"id":"feed_friend_list"})[0]
+#                 li = BeautifulSoup(ul)
+#                 liA = li.findAll("li")[0]
+#                 liB = li.findAll("li")[1]
+#                 liC = li.findAll("li")[2]
+#                 f.write(str())
+#             else:
+#                 f.write(str(feedsoup.findAll("ul",attrs={"data-page":str(i-1)})))
+#             
+
+没开空间：http://user.qzone.qq.com/209783537
+
