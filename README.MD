@@ -6,4 +6,4 @@
 5、默认开发使用的是chrome浏览器。</br>
 6、使用本爬虫如若造成经济或者商业纠纷与作者无关。</br>
 7、此项目为大数据处理的前期数据挖掘，后期计划如图：
- ![image](https://github.com/1156721874/CrazyCode/blob/master/QqZone/src/QqZoneSpider.png)
+ ![image](https://github.com/1156721874/QqZoneSpider/blob/master/src/QqZoneSpider.png)
